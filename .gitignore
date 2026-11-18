@@ -1,0 +1,8 @@
+*.csv
+*.pkl
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.env
+ngrok*
+*.npy
